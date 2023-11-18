@@ -2,7 +2,7 @@
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
 
-#Dev
+# Dev
 
 1. Clonar el repositorio
 2. Establecer las variables de entorno del ```.env.template``` y renombrarlo a ```.env```
